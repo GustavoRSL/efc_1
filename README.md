@@ -10,6 +10,6 @@ Matriculas: 201910381 | 201910165
 
 Turma: 14A
 
-Link Github: https://github.com/ademarsj/EFC1_GCC_253
+Link Github: https://github.com/GustavoRSL/efc_1
 
 Link Colab: https://colab.research.google.com/drive/1pNluD4B4W0f-yrQVLsCakcDputNkcso3?usp=sharing
